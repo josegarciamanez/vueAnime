@@ -27,4 +27,16 @@
     text-decoration: none;
   }
 }
+ button {
+    padding: 10px 20px;
+    background: #42b983;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+  }
+button:hover {
+  background: white;
+  color: #42b983;
+}
 </style>
